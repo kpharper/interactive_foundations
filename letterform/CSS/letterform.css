@@ -9,8 +9,8 @@ body{
 
 .bounding-box{
     position: relative;
-    width: 450px;
-    height: 600px;
+    width: 480px;
+    height: 480px;
     background: lightgreen;
     margin: 20px;
 }
@@ -42,7 +42,7 @@ body{
 }
 
 .right {
-    left: 400;
+    left: 200;
 }
 
 .segment {
