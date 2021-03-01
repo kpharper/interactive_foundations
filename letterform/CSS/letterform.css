@@ -120,14 +120,6 @@ body{
 .round:hover {
     border-radius: 100px;
     background: orange
- }
-.bounding-box{
-    position: relative;
-    width: 450px;
-    height: 1050px;
-    background: lightgreen;
-    margin: 0px;
-}
 
 }
 
