@@ -15,23 +15,63 @@ body{
     margin: 20px;
 }
 
-.vertical-stroke {
-    width: 40px;
+.vertical-rect {
+    width: 160px;
     height: 400px;
     display: block;
     position: absolute;
     top: 70px;
     left: 20px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
     background: black;
 }
 
-.horizontal-stroke {
-    width: 160px;
-    height: 240px;
-    background: black;
+#rcorners1 {
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+
+#rcorners2 {
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+
+.oval {
+    width: 80px;
+    height: 160px;
+    background: lightgreen;
     position: absolute;
-    top: 50px;
-    left: 20px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    top: 0px;
+    left: 0px;
+}
+
+.top{
+    top: 115px;
+    left: 58px;
+}
+
+.bottom{
+    top: 311px;
+    left: 58px;
+}
+
+.circle{
+    background: lightgreen;
+    border-radius: 50%;
+    position: absolute;
+    width: 80px;
+    height: 80px;
 }
 
 .middle {
@@ -40,87 +80,14 @@ body{
     top: 200px;
 }
 
-.right {
-    left: 200;
+#right {
+    top: 435px;
+    left: 20px;
 }
 
-.segment {
-    width: 100px;
-    height: 100px;
-    display: inline-block;
-    margin: 0px;
-    background-color: rgb(255, 0, 0);
-
-}
-
-.segment.blank {
-    width: 100px;
-    height: 100px;
-    display: inline-block;
-    margin: 0px;
-    background: none;
-}
-
-.insideleftcorner{
-    width: 100px;
-    height: 100px;
-    display: inline-block;
-    margin: 0px;
-    background-image: radial-gradient(farthest-side at 100% 100%, rgba(255,0,0,0), rgba(255,0,0,1));
-}
-
-.insiderightcorner{
-    width: 100px;
-    height: 100px;
-    display: inline-block;
-    margin: 0px;
-    background-image: radial-gradient(farthest-side at 0% 100%, rgba(255,0,0,0), rgba(255,0,0,1));
-}
-
-.lineargradientR{
-    width: 100px;
-    height: 100px;
-    display: inline-block;
-    margin: 0px;
-    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
-}
-
-.lineargradientL{
-    width: 100px;
-    height: 100px;
-    display: inline-block;
-    margin: 0px;
-    background-image: linear-gradient(to left, rgba(255,0,0,0), rgba(255,0,0,1));
-}
-
-.roundtopleft{
-    border-top-left-radius: 100px
-}
-.roundtopleft:hover {
-    border-radius: 100px;
-    background: orange
-}
-
-.roundtopright{
-    border-top-right-radius: 180px
-}
-.roundtopright:hover {
-    border-radius: 100px;
-    background: orange
-}
-
-.roundbottomleft{
-    border-bottom-left-radius: 180px
-}
-
-.roundbottomright{
-    border-bottom-right-radius: 180px
-}
-
-.round:hover {
-    border-radius: 100px;
-    background: orange
-
+#left {
+    top: 435px;
+    left: 100px;
 }
 
 
