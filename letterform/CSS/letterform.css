@@ -31,8 +31,16 @@ body{
     background: black;
 
     position: absolute;
-    top: 0px;
+    top: 50px;
     left: 20px;
+}
+
+.middle {
+    top: 200px;
+}
+
+.right {
+    left: 228;
 }
 
 .segment {
