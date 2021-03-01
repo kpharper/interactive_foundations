@@ -1,18 +1,42 @@
 * {
-    margin: 0px;
+    margin: 122px;
     padding: 0px;
+    border: 0px solid red;
 }
 
 body{
     background-color: lightgreen;
 }
 
-.bounding-box{
-    position: relative;
+#a{
     width: 480px;
     height: 480px;
+    top: 50px
+    left: 400px;
+}
+
+#b{
+    width: 480px;
+    height: 480px;
+    top: 50px;
+    left: 800px;
+}
+
+#c{
+    width: 480px;
+    height: 480px;
+    top: 50px;
+    left: 1200px;
+}
+
+#bounding-box{
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    overflow: visible;
+    position: relative;
+    display: inline-block;
     background: lightgreen;
-    margin: 20px;
 }
 
 .vertical-rect {
@@ -25,6 +49,13 @@ body{
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
     background: black;
+}
+
+#b-rect {
+    width: 160px;
+    height: 400px;
+    top: 100px;
+    left: 600px;
 }
 
 .oval {
@@ -50,7 +81,41 @@ body{
     left: 58px;
 }
 
+.bottom-b-oval{
+    top: 311px;
+    left: 58px;
+    width: 80px;
+    height: 120px;
+    background: lightgreen;
+    position: absolute;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.c-oval{
+    top: 113px;
+    left: 58px;
+    width: 80px;
+    height: 311px;
+    background: lightgreen;
+    position: absolute;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
 .circle{
+    background: lightgreen;
+    border-radius: 50%;
+    position: absolute;
+    width: 80px;
+    height: 80px;
+}
+
+.circle-b{
     background: lightgreen;
     border-radius: 50%;
     position: absolute;
@@ -69,9 +134,33 @@ body{
     left: 20px;
 }
 
+#right-b {
+    top: 435px;
+    left: -20px;
+}
+
+#right-c {
+    top: 435px;
+    left: -20px;
+}
+
 #left {
     top: 435px;
     left: 100px;
 }
 
+#left-b {
+    top: 435px;
+    left: 135px;
+}
+
+#left-c {
+    top: 435px;
+    left: 135px;
+}
+
+#mid-c{
+    top: 240px;
+    left: 120px;
+}
 
