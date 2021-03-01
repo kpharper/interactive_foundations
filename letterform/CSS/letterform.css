@@ -4,7 +4,7 @@
 }
 
 body{
-
+    background-color: lightgreen;
 }
 
 .bounding-box{
@@ -16,13 +16,23 @@ body{
 }
 
 .vertical-stroke {
-    width: 30px;
+    width: 45px;
     height: 400px;
     display: block;
     position: absolute;
     top: 58px;
     left: 30px;
     background: black;
+}
+
+.horizontal-stroke {
+    width: 200px;
+    height: 30px;
+    background: black;
+
+    position: absolute;
+    top: 0px;
+    left: 20px;
 }
 
 .segment {
