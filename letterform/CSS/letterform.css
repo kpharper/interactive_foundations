@@ -1,5 +1,5 @@
 * {
-    margin: 20px;
+    margin: 160px;
     padding: 0px;
 }
 
@@ -16,7 +16,7 @@ body{
 }
 
 .vertical-stroke {
-    width: 50px;
+    width: 40px;
     height: 400px;
     display: block;
     position: absolute;
@@ -26,18 +26,17 @@ body{
 }
 
 .horizontal-stroke {
-    width: 200px;
-    height: 50px;
+    width: 160px;
+    height: 240px;
     background: black;
-
     position: absolute;
     top: 50px;
     left: 20px;
 }
 
 .middle {
-    width: 200px;
-    height: 25px;
+    width: 80px;
+    height: 20px;
     top: 200px;
 }
 
