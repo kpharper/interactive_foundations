@@ -16,12 +16,12 @@ body{
 }
 
 .vertical-stroke {
-    width: 45px;
+    width: 50px;
     height: 400px;
     display: block;
     position: absolute;
-    top: 58px;
-    left: 30px;
+    top: 70px;
+    left: 20px;
     background: black;
 }
 
@@ -36,6 +36,7 @@ body{
 }
 
 .middle {
+    width: 25px;
     top: 200px;
 }
 
