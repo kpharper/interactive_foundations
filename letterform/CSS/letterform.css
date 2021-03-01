@@ -27,22 +27,6 @@ body{
     background: black;
 }
 
-#rcorners1 {
-  border-radius: 25px;
-  background: #73AD21;
-  padding: 20px;
-  width: 200px;
-  height: 150px;
-}
-
-#rcorners2 {
-  border-radius: 25px;
-  border: 2px solid #73AD21;
-  padding: 20px;
-  width: 200px;
-  height: 150px;
-}
-
 .oval {
     width: 80px;
     height: 160px;
