@@ -29,7 +29,7 @@ body{
     left: 1200px;
 }
 
-#bounding-box{
+.bounding-box{
     width: 600px;
     height: 600px;
     margin: auto;
@@ -163,4 +163,8 @@ body{
     top: 240px;
     left: 120px;
 }
+
+.bounding-box:hover .circle{ transform: translateY(100px); }
+
+.circle { transition: all 500ms ease; }
 
