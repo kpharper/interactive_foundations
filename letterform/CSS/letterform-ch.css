@@ -3,13 +3,13 @@
     padding: 0px;
     border: 0px solid red;
 }
-
+​
 body{
     background-color: lightgreen;
 }
-
-
-
+​
+​
+​
 .abc-bounding-box{
     width: 1800px;
     height: 600px;
@@ -18,7 +18,7 @@ body{
     position: relative;
     display: block;
 }
-
+​
 .bounding-box{
     width: 597px;
     height: 600px;
@@ -27,19 +27,19 @@ body{
     position: relative;
     display: inline-block;
 }
-
+​
 #a{
-
+​
 }
-
+​
 #b{
-
+​
 }
-
+​
 #c{
-
+​
 }
-
+​
 .vertical-rect {
     width: 160px;
     height: 400px;
@@ -51,14 +51,14 @@ body{
     border-top-right-radius: 50px;
     background: black;
 }
-
+​
 #b-rect {
     width: 160px;
     height: 400px;
     top: 100px;
     left: 600px;
 }
-
+​
 .oval {
     width: 80px;
     height: 160px;
@@ -71,17 +71,17 @@ body{
     top: 0px;
     left: 0px;
 }
-
+​
 .top{
     top: 115px;
     left: 58px;
 }
-
+​
 .bottom{
     top: 311px;
     left: 58px;
 }
-
+​
 .bottom-b-oval{
     top: 311px;
     left: 58px;
@@ -94,7 +94,7 @@ body{
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
-
+​
 .c-oval{
     top: 113px;
     left: 58px;
@@ -107,7 +107,7 @@ body{
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
 }
-
+​
 .circle{
     background: lightgreen;
     border-radius: 50%;
@@ -115,7 +115,7 @@ body{
     width: 80px;
     height: 80px;
 }
-
+​
 .circle-b{
     background: lightgreen;
     border-radius: 50%;
@@ -123,49 +123,48 @@ body{
     width: 80px;
     height: 80px;
 }
-
+​
 .middle {
     width: 80px;
     height: 20px;
     top: 200px;
 }
-
+​
 #right {
     top: 435px;
     left: 20px;
 }
-
+​
 #right-b {
     top: 435px;
     left: -20px;
 }
-
+​
 #right-c {
     top: 435px;
     left: -20px;
 }
-
+​
 #left {
     top: 435px;
     left: 100px;
 }
-
+​
 #left-b {
     top: 435px;
     left: 135px;
 }
-
+​
 #left-c {
     top: 435px;
     left: 135px;
 }
-
+​
 #mid-c{
     top: 240px;
     left: 120px;
 }
-
+​
 .bounding-box:hover .circle{ transform: translateY(100px); }
-
+​
 .circle { transition: all 500ms ease; }
-

@@ -5,71 +5,71 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M44 100H64V120H61.3244C57.8663 114.022 51.4028 110 44 110V100Z" fill="black"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M44 90V100H64V80H61.3244C57.8663 85.978 51.4028 90 44 90Z" fill="black"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M26.6756 80C30.1337 85.978 36.5972 90 44 90V100H24V80H26.6756Z" fill="black"/>
-<rect x="4" y="30" width="20" height="10" fill="white"/>
-<rect x="4" y="30" width="20" height="10" stroke="#A9A9A9"/>
+<rect x="4" y="30" width="20" height="10" fill="black"/>
+<rect x="4" y="30" width="20" height="10" stroke="black"/>
 <rect x="44" width="20" height="20" fill="black"/>
-<rect x="64" y="80" width="20" height="20" fill="white"/>
-<rect x="64" y="80" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="4" y="140" width="20" height="20" fill="white"/>
-<rect x="4" y="140" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="4" y="140" width="20" height="20" fill="black"/>
-<rect x="4" y="140" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="4" y="160" width="20" height="20" fill="black"/>
-<rect x="4" y="160" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="4" y="120" width="20" height="20" fill="white"/>
-<rect x="4" y="120" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="4" y="100" width="20" height="20" fill="white"/>
-<rect x="4" y="100" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="4" y="100" width="20" height="20" fill="black"/>
-<rect x="4" y="100" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="4" y="120" width="20" height="20" fill="black"/>
-<rect x="4" y="120" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="4" y="60" width="20" height="20" fill="white"/>
-<rect x="4" y="60" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="64" y="60" width="20" height="20" fill="white"/>
-<rect x="64" y="60" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="4" y="80" width="20" height="20" fill="white"/>
-<rect x="4" y="80" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="64" y="110" width="20" height="20" fill="black"/>
-<rect x="64" y="110" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="64" y="140" width="20" height="20" fill="white"/>
-<rect x="64" y="140" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="64" y="100" width="20" height="20" fill="white"/>
-<rect x="64" y="100" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="64" y="100" width="20" height="20" fill="black"/>
-<rect x="64" y="100" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="64" y="60" width="20" height="20" fill="black"/>
-<rect x="64" y="60" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="64" y="120" width="20" height="20" fill="black"/>
-<rect x="64" y="120" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="24" width="20" height="20" fill="black"/>
-<rect x="24" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="64" y="40" width="20" height="20" fill="white"/>
-<rect x="64" y="40" width="20" height="20" stroke="#A9A9A9"/>
-<rect x="4" y="40" width="20" height="20" fill="white"/>
-<rect x="4" y="40" width="20" height="20" stroke="#A9A9A9"/>
 <rect x="64" y="80" width="20" height="20" fill="black"/>
-<rect x="64" y="80" width="20" height="20" stroke="#A9A9A9"/>
+<rect x="64" y="80" width="20" height="20" stroke="black"/>
+<rect x="4" y="140" width="20" height="20" fill="black"/>
+<rect x="4" y="140" width="20" height="20" stroke="black"/>
+<rect x="4" y="140" width="20" height="20" fill="black"/>
+<rect x="4" y="140" width="20" height="20" stroke="black"/>
+<rect x="4" y="160" width="20" height="20" fill="black"/>
+<rect x="4" y="160" width="20" height="20" stroke="black"/>
+<rect x="4" y="120" width="20" height="20" fill="black"/>
+<rect x="4" y="120" width="20" height="20" stroke="black"/>
+<rect x="4" y="100" width="20" height="20" fill="black"/>
+<rect x="4" y="100" width="20" height="20" stroke="black"/>
+<rect x="4" y="100" width="20" height="20" fill="black"/>
+<rect x="4" y="100" width="20" height="20" stroke="black"/>
+<rect x="4" y="120" width="20" height="20" fill="black"/>
+<rect x="4" y="120" width="20" height="20" stroke="black"/>
+<rect x="4" y="60" width="20" height="20" fill="black"/>
+<rect x="4" y="60" width="20" height="20" stroke="black"/>
+<rect x="64" y="60" width="20" height="20" fill="black"/>
+<rect x="64" y="60" width="20" height="20" stroke="black"/>
+<rect x="4" y="80" width="20" height="20" fill="black"/>
+<rect x="4" y="80" width="20" height="20" stroke="black"/>
+<rect x="64" y="110" width="20" height="20" fill="black"/>
+<rect x="64" y="110" width="20" height="20" stroke="black"/>
+<rect x="64" y="140" width="20" height="20" fill="black"/>
+<rect x="64" y="140" width="20" height="20" stroke="black"/>
+<rect x="64" y="100" width="20" height="20" fill="black"/>
+<rect x="64" y="100" width="20" height="20" stroke="black"/>
+<rect x="64" y="100" width="20" height="20" fill="black"/>
+<rect x="64" y="100" width="20" height="20" stroke="black"/>
+<rect x="64" y="60" width="20" height="20" fill="black"/>
+<rect x="64" y="60" width="20" height="20" stroke="black"/>
+<rect x="64" y="120" width="20" height="20" fill="black"/>
+<rect x="64" y="120" width="20" height="20" stroke="black"/>
+<rect x="24" width="20" height="20" fill="black"/>
+<rect x="24" width="20" height="20" stroke="black"/>
+<rect x="64" y="40" width="20" height="20" fill="black"/>
+<rect x="64" y="40" width="20" height="20" stroke="black"/>
+<rect x="4" y="40" width="20" height="20" fill="black"/>
+<rect x="4" y="40" width="20" height="20" stroke="black"/>
+<rect x="64" y="80" width="20" height="20" fill="black"/>
+<rect x="64" y="80" width="20" height="20" stroke="black"/>
 <g filter="url(#filter0_d)">
 <rect x="4" y="80" width="20" height="10" fill="black"/>
 </g>
 <rect x="64" y="140" width="20" height="20" fill="black"/>
-<rect x="64" y="140" width="20" height="20" stroke="#A9A9A9"/>
+<rect x="64" y="140" width="20" height="20" stroke="black"/>
 <rect x="64" y="160" width="20" height="20" fill="black"/>
-<rect x="64" y="160" width="20" height="20" stroke="#A9A9A9"/>
+<rect x="64" y="160" width="20" height="20" stroke="black"/>
 <path d="M84 40L64 40L64 20L84 20V40Z" fill="black"/>
 <rect x="4" y="40" width="20" height="20" fill="black"/>
-<rect x="4" y="40" width="20" height="20" stroke="#A9A9A9"/>
+<rect x="4" y="40" width="20" height="20" stroke="black"/>
 <rect x="4" y="60" width="20" height="20" fill="black"/>
-<rect x="4" y="60" width="20" height="20" stroke="#A9A9A9"/>
+<rect x="4" y="60" width="20" height="20" stroke="black"/>
 <rect x="4" y="80" width="20" height="20" fill="black"/>
-<rect x="4" y="80" width="20" height="20" stroke="#A9A9A9"/>
+<rect x="4" y="80" width="20" height="20" stroke="black"/>
 <rect x="64" y="40" width="20" height="20" fill="black"/>
-<rect x="64" y="40" width="20" height="20" stroke="#A9A9A9"/>
+<rect x="64" y="40" width="20" height="20" stroke="black"/>
 <rect x="4" y="20" width="20" height="20" fill="black"/>
-<rect x="4" y="20" width="20" height="20" stroke="#A9A9A9"/>
+<rect x="4" y="20" width="20" height="20" stroke="black"/>
 <path d="M4.00007 19.9991C4.10696 8.95389 13.1475 0.0866481 24.1927 0.193534L23.9991 20.1926L4.00007 19.9991Z" fill="black"/>
-<path d="M4.00007 19.9991C4.10696 8.95389 13.1475 0.0866481 24.1927 0.193534L23.9991 20.1926L4.00007 19.9991Z" stroke="#A9A9A9"/>
+<path d="M4.00007 19.9991C4.10696 8.95389 13.1475 0.0866481 24.1927 0.193534L23.9991 20.1926L4.00007 19.9991Z" stroke="black"/>
 <path d="M84 20C84 8.95431 75.0457 0 64 0V20H84Z" fill="black"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M44 100H64V80C64 91.0457 55.0457 100 44 100Z" fill="black"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M44 100H24V80C24 91.0457 32.9543 100 44 100Z" fill="black"/>
