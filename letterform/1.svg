@@ -1,0 +1,30 @@
+<svg width="80" height="200" viewBox="0 0 80 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="30.5" y="40.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="30.5" y="20.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="30.5" y="60.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="30.5" y="80.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="30.5" y="100.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="30.5" y="120.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="30.5" y="140.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="30.5" y="160.5" width="19" height="19" fill="black" stroke="black"/>
+<mask id="path-9-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 20C0 8.95431 8.95431 0 20 0H30C41.0457 0 50 8.95431 50 20H25H0Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 20C0 8.95431 8.95431 0 20 0H30C41.0457 0 50 8.95431 50 20H25H0Z" fill="black"/>
+<path d="M0 20H-1V21H0V20ZM50 20V21H51V20H50ZM20 -1C8.40202 -1 -1 8.40202 -1 20H1C1 9.50659 9.50659 1 20 1V-1ZM30 -1H20V1H30V-1ZM51 20C51 8.40202 41.598 -1 30 -1V1C40.4934 1 49 9.50659 49 20H51ZM25 21H50V19H25V21ZM0 21H25V19H0V21Z" fill="black" mask="url(#path-9-inside-1)"/>
+<mask id="path-11-inside-2" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30 180C30 191.046 38.9543 200 50 200H60C71.0457 200 80 191.046 80 180H55H30Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30 180C30 191.046 38.9543 200 50 200H60C71.0457 200 80 191.046 80 180H55H30Z" fill="black"/>
+<path d="M30 180H29V179H30V180ZM80 180V179H81V180H80ZM50 201C38.402 201 29 191.598 29 180H31C31 190.493 39.5066 199 50 199V201ZM60 201H50V199H60V201ZM81 180C81 191.598 71.598 201 60 201V199C70.4934 199 79 190.493 79 180H81ZM55 179H80V181H55V179ZM30 179H55V181H30V179Z" fill="black" mask="url(#path-11-inside-2)"/>
+<mask id="path-13-inside-3" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50 160V180H70C58.9543 180 50 171.046 50 160Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50 160V180H70C58.9543 180 50 171.046 50 160Z" fill="black"/>
+<path d="M50 180H49V181H50V180ZM51 180V160H49V180H51ZM70 179H50V181H70V179ZM70 179C59.5066 179 51 170.493 51 160H49C49 171.598 58.402 181 70 181V179Z" fill="black" mask="url(#path-13-inside-3)"/>
+<mask id="path-15-inside-4" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30 40V20H10C21.0457 20 30 28.9543 30 40Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30 40V20H10C21.0457 20 30 28.9543 30 40Z" fill="black"/>
+<path d="M30 20H31V19H30V20ZM29 20V40H31V20H29ZM10 21H30V19H10V21ZM10 21C20.4934 21 29 29.5066 29 40H31C31 28.402 21.598 19 10 19V21Z" fill="black" mask="url(#path-15-inside-4)"/>
+</svg>

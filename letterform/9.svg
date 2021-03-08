@@ -1,0 +1,87 @@
+<svg width="80" height="200" viewBox="0 0 80 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="160.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="0.5" y="40.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="0.5" y="80.5" width="19" height="9" fill="black" stroke="black"/>
+<rect x="0.5" y="60.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="60.5" y="160.5" width="19" height="19" fill="black" stroke="black"/>
+<mask id="path-6-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 200V180H0C11.0457 180 20 188.954 20 200Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 200V180H0C11.0457 180 20 188.954 20 200Z" fill="black"/>
+<path d="M20 180H21V179H20V180ZM19 180V200H21V180H19ZM0 181H20V179H0V181ZM0 181C10.4934 181 19 189.507 19 200H21C21 188.402 11.598 179 0 179V181Z" fill="black" mask="url(#path-6-inside-1)"/>
+<mask id="path-8-inside-2" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M80 180H60V200C60 188.954 68.9543 180 80 180Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M80 180H60V200C60 188.954 68.9543 180 80 180Z" fill="black"/>
+<path d="M60 180V179H59V180H60ZM60 181H80V179H60V181ZM61 200V180H59V200H61ZM61 200C61 189.507 69.5066 181 80 181V179C68.402 179 59 188.402 59 200H61Z" fill="black" mask="url(#path-8-inside-2)"/>
+<rect x="20.5" y="199.5" width="9" height="39" transform="rotate(-90 20.5 199.5)" fill="black" stroke="black"/>
+<rect x="60.5" y="40.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="60.5" y="80.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="60.5" y="140.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="60.5" y="60.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="60.5" y="120.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="60.5" y="100.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="20.5" y="100.5" width="19" height="9" fill="black" stroke="black"/>
+<rect x="0.5" y="20.5" width="19" height="19" fill="black" stroke="black"/>
+<rect x="60.5" y="20.5" width="19" height="19" fill="black" stroke="black"/>
+<mask id="path-20-inside-3" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 0C8.95431 0 0 8.95431 0 20C0 31.0457 8.95431 40 20 40C20 28.9543 28.9543 20 40 20C51.0457 20 60 28.9543 60 40C71.0457 40 80 31.0457 80 20C80 8.95431 71.0457 0 60 0H20Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 0C8.95431 0 0 8.95431 0 20C0 31.0457 8.95431 40 20 40C20 28.9543 28.9543 20 40 20C51.0457 20 60 28.9543 60 40C71.0457 40 80 31.0457 80 20C80 8.95431 71.0457 0 60 0H20Z" fill="black"/>
+<path d="M20 40V41H21V40H20ZM60 40H59V41H60V40ZM1 20C1 9.50659 9.50659 1 20 1V-1C8.40202 -1 -1 8.40202 -1 20H1ZM20 39C9.50659 39 1 30.4934 1 20H-1C-1 31.598 8.40202 41 20 41V39ZM21 40C21 29.5066 29.5066 21 40 21V19C28.402 19 19 28.402 19 40H21ZM40 21C50.4934 21 59 29.5066 59 40H61C61 28.402 51.598 19 40 19V21ZM79 20C79 30.4934 70.4934 39 60 39V41C71.598 41 81 31.598 81 20H79ZM60 1C70.4934 1 79 9.50659 79 20H81C81 8.40202 71.598 -1 60 -1V1ZM20 1H60V-1H20V1Z" fill="black" mask="url(#path-20-inside-3)"/>
+<mask id="path-22-inside-4" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22.6756 80C20.9739 77.0583 20 73.6429 20 70V80H22.6756Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22.6756 80C20.9739 77.0583 20 73.6429 20 70V80H22.6756Z" fill="black"/>
+<path d="M22.6756 80V81H24.4094L23.5413 79.4993L22.6756 80ZM20 80H19V81H20V80ZM23.5413 79.4993C21.9252 76.7056 21 73.4624 21 70H19C19 73.8234 20.0227 77.4109 21.81 80.5007L23.5413 79.4993ZM21 80V70H19V80H21ZM22.6756 79H20V81H22.6756V79Z" fill="black" mask="url(#path-22-inside-4)"/>
+<mask id="path-24-inside-5" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M57.3244 80C59.0261 77.0583 60 73.6429 60 70V80H57.3244Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M57.3244 80C59.0261 77.0583 60 73.6429 60 70V80H57.3244Z" fill="black"/>
+<path d="M57.3244 80V81H55.5906L56.4587 79.4993L57.3244 80ZM60 80H61V81H60V80ZM56.4587 79.4993C58.0748 76.7056 59 73.4624 59 70H61C61 73.8234 59.9773 77.4109 58.19 80.5007L56.4587 79.4993ZM59 80V70H61V80H59ZM57.3244 79H60V81H57.3244V79Z" fill="black" mask="url(#path-24-inside-5)"/>
+<mask id="path-26-inside-6" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40 90V100H60V80H57.3244C53.8663 85.978 47.4028 90 40 90Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40 90V100H60V80H57.3244C53.8663 85.978 47.4028 90 40 90Z" fill="black"/>
+<path d="M40 100H39V101H40V100ZM40 90V89H39V90H40ZM60 100V101H61V100H60ZM60 80H61V79H60V80ZM57.3244 80V79H56.7476L56.4588 79.4993L57.3244 80ZM41 100V90H39V100H41ZM60 99H40V101H60V99ZM59 80V100H61V80H59ZM57.3244 81H60V79H57.3244V81ZM56.4588 79.4993C53.1721 85.181 47.0314 89 40 89V91C47.7742 91 54.5605 86.775 58.19 80.5007L56.4588 79.4993Z" fill="black" mask="url(#path-26-inside-6)"/>
+<mask id="path-28-inside-7" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22.6756 80C26.1337 85.978 32.5972 90 40 90V100H20V80H22.6756Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22.6756 80C26.1337 85.978 32.5972 90 40 90V100H20V80H22.6756Z" fill="black"/>
+<path d="M40 90H41V89H40V90ZM22.6756 80L23.5413 79.4993L23.2524 79H22.6756V80ZM40 100V101H41V100H40ZM20 100H19V101H20V100ZM20 80V79H19V80H20ZM40 89C32.9686 89 26.8279 85.181 23.5413 79.4993L21.81 80.5007C25.4395 86.775 32.2258 91 40 91V89ZM39 90V100H41V90H39ZM40 99H20V101H40V99ZM21 100V80H19V100H21ZM20 81H22.6756V79H20V81Z" fill="black" mask="url(#path-28-inside-7)"/>
+<mask id="path-30-inside-8" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22.6756 170C20.9739 167.058 20 163.643 20 160V170H22.6756Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22.6756 170C20.9739 167.058 20 163.643 20 160V170H22.6756Z" fill="black"/>
+<path d="M22.6756 170V171H24.4094L23.5413 169.499L22.6756 170ZM20 170H19V171H20V170ZM23.5413 169.499C21.9252 166.706 21 163.462 21 160H19C19 163.823 20.0227 167.411 21.81 170.501L23.5413 169.499ZM21 170V160H19V170H21ZM22.6756 169H20V171H22.6756V169Z" fill="black" mask="url(#path-30-inside-8)"/>
+<mask id="path-32-inside-9" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M57.3244 120C59.0261 122.942 60 126.357 60 130V120H57.3244Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M57.3244 120C59.0261 122.942 60 126.357 60 130V120H57.3244Z" fill="black"/>
+<path d="M57.3244 120V119H55.5906L56.4587 120.501L57.3244 120ZM60 120H61V119H60V120ZM56.4587 120.501C58.0748 123.294 59 126.538 59 130H61C61 126.177 59.9773 122.589 58.19 119.499L56.4587 120.501ZM59 120V130H61V120H59ZM57.3244 121H60V119H57.3244V121Z" fill="black" mask="url(#path-32-inside-9)"/>
+<mask id="path-34-inside-10" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M57.3244 170C59.0261 167.058 60 163.643 60 160V170H57.3244Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M57.3244 170C59.0261 167.058 60 163.643 60 160V170H57.3244Z" fill="black"/>
+<path d="M57.3244 170V171H55.5906L56.4587 169.499L57.3244 170ZM60 170H61V171H60V170ZM56.4587 169.499C58.0748 166.706 59 163.462 59 160H61C61 163.823 59.9773 167.411 58.19 170.501L56.4587 169.499ZM59 170V160H61V170H59ZM57.3244 169H60V171H57.3244V169Z" fill="black" mask="url(#path-34-inside-10)"/>
+<mask id="path-36-inside-11" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40 110V100H60V120L57.3244 120C53.8663 114.022 47.4028 110 40 110Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40 110V100H60V120L57.3244 120C53.8663 114.022 47.4028 110 40 110Z" fill="black"/>
+<path d="M40 100H39V99H40V100ZM40 110V111H39V110H40ZM60 100V99H61V100H60ZM60 120H61V121H60V120ZM57.3244 120V121H56.7476L56.4588 120.501L57.3244 120ZM41 100V110H39V100H41ZM60 101H40V99H60V101ZM59 120V100H61V120H59ZM57.3244 119L60 119V121L57.3244 121V119ZM56.4588 120.501C53.1721 114.819 47.0314 111 40 111V109C47.7742 109 54.5605 113.225 58.19 119.499L56.4588 120.501Z" fill="black" mask="url(#path-36-inside-11)"/>
+<mask id="path-38-inside-12" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40 180V190H60V170H57.3244C53.8663 175.978 47.4028 180 40 180Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40 180V190H60V170H57.3244C53.8663 175.978 47.4028 180 40 180Z" fill="black"/>
+<path d="M40 190H39V191H40V190ZM40 180V179H39V180H40ZM60 190V191H61V190H60ZM60 170H61V169H60V170ZM57.3244 170V169H56.7476L56.4588 169.499L57.3244 170ZM41 190V180H39V190H41ZM60 189H40V191H60V189ZM59 170V190H61V170H59ZM57.3244 171H60V169H57.3244V171ZM56.4588 169.499C53.1721 175.181 47.0314 179 40 179V181C47.7742 181 54.5605 176.775 58.19 170.501L56.4588 169.499Z" fill="black" mask="url(#path-38-inside-12)"/>
+<mask id="path-40-inside-13" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22.6756 170C26.1337 175.978 32.5972 180 40 180V190H20V170H22.6756Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22.6756 170C26.1337 175.978 32.5972 180 40 180V190H20V170H22.6756Z" fill="black"/>
+<path d="M40 180H41V179H40V180ZM22.6756 170L23.5413 169.499L23.2524 169H22.6756V170ZM40 190V191H41V190H40ZM20 190H19V191H20V190ZM20 170V169H19V170H20ZM40 179C32.9686 179 26.8279 175.181 23.5413 169.499L21.81 170.501C25.4395 176.775 32.2258 181 40 181V179ZM39 180V190H41V180H39ZM40 189H20V191H40V189ZM21 190V170H19V190H21ZM20 171H22.6756V169H20V171Z" fill="black" mask="url(#path-40-inside-13)"/>
+<mask id="path-42-inside-14" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 90C0 101.046 8.9543 110 20 110H41C52.0457 110 61 101.046 61 90H30.5H0Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 90C0 101.046 8.9543 110 20 110H41C52.0457 110 61 101.046 61 90H30.5H0Z" fill="black"/>
+<path d="M0 90H-1V89H0V90ZM61 90V89H62V90H61ZM20 111C8.40202 111 -1 101.598 -1 90H1C1 100.493 9.50659 109 20 109V111ZM41 111H20V109H41V111ZM62 90C62 101.598 52.598 111 41 111V109C51.4934 109 60 100.493 60 90H62ZM30.5 89H61V91H30.5V89ZM0 89H30.5V91H0V89Z" fill="black" mask="url(#path-42-inside-14)"/>
+</svg>
