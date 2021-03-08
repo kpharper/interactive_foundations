@@ -8,7 +8,18 @@ body{
     background-color: lightgreen;
 }
 
-.crosshair {cursor: crosshair;}
+h1 {
+  font-size: 80px;
+  font-family: Nunito Sans Black;
+  font-weight: bold;
+  font-kerning: 100px;
+  color: darkorange; 
+}
+
+.container {
+  /* working one */
+  cursor: "comet.png"; 
+}
 
 .abc-bounding-box{
     width: 1800px;
@@ -29,7 +40,7 @@ body{
 }
 
 .svg-bounding-box{
-    width: 1800px;
+    width: 1836px;
     margin: auto;
     padding: 50px;
     overflow: hidden;
@@ -221,7 +232,7 @@ body{
     transform: scaleY(0);
     transition: all 700ms ease;
     position: absolute;
-    height: 200px;
+    height: 400px;
     }
 
 .bounding-box:hover .bottom-b-oval{
@@ -231,6 +242,12 @@ body{
 }
 
 .bounding-box:hover .c-oval{
+    height: 400px;
+    transition: all 700ms ease;
+}
+
+.bounding-box:hover #mid-c{
+    transform: translateX(80px);
     height: 400px;
     transition: all 700ms ease;
 }
@@ -406,6 +423,7 @@ body{
     transition: all 700ms ease;
     filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
 }
+
 /*.svg-bounding-box:hover {
     transition: background-image 1s linear;
     background: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(0, 100%, 20%));
