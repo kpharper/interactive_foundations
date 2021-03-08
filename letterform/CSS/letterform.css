@@ -281,7 +281,131 @@ body{
     filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
 }
 
+#F:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
 
+#G:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#H:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#I:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#J:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#K:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#L:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#M:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#N:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#O:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#P:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#Q:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#R:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#S:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#T:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#U:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#V:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#W:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#X:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#Y:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#Z:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
 /*.svg-bounding-box:hover {
     transition: background-image 1s linear;
     background: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(0, 100%, 20%));
