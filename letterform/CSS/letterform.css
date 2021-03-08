@@ -1,7 +1,7 @@
 * {
-    margin: 122px;
+    margin: 120px;
     padding: 0px;
-    border: 0px solid red;
+    border: 1px solid red;
 }
 
 body{
@@ -206,9 +206,6 @@ body{
     left: 120px;
 }
 
-
-/* Magic Stuff End -> */
-
 .bounding-box:hover .circle{ 
     transform: translateY(100px);
     height: 150px;
@@ -240,9 +237,52 @@ body{
 
 .vertical-rect:hover { 
     transition: background-image 1s linear;
-    background: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(0, 100%, 20%));
+    background: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
     }
 
+.svg {
+    display: inline-block;
+    width: 140px
+    height: 200px;
+    background-size: cover;
+    }
+.svg:hover,
+.svg:focus {
+    filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
+}
+
+#A:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#B:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#C:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#D:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
+
+#E:hover {
+    transform: scale(1.2);
+    transition: all 700ms ease;
+    filter: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(30, 100%, 50%));
+}
 
 
-
+/*.svg-bounding-box:hover {
+    transition: background-image 1s linear;
+    background: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(0, 100%, 20%));
+    }
