@@ -1,0 +1,17 @@
+<svg width="80" height="200" viewBox="0 0 80 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="20" height="20" transform="matrix(-1 0 0 1 40 180)" fill="black"/>
+<rect width="20" height="20" transform="matrix(-1 0 0 1 20 30)" fill="black"/>
+<rect width="20" height="20" transform="matrix(-1 0 0 1 60 180)" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 180H20V200C20 188.954 11.0457 180 0 180Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M80 180H60V200C60 188.954 68.9543 180 80 180Z" fill="black"/>
+<rect width="20" height="20" transform="matrix(-1 0 0 1 20 50)" fill="black"/>
+<rect width="20" height="20" transform="matrix(-1 0 0 1 20 90)" fill="black"/>
+<rect width="20" height="20" transform="matrix(-1 0 0 1 20 160)" fill="black"/>
+<rect width="20" height="20" transform="matrix(-1 0 0 1 20 70)" fill="black"/>
+<rect width="20" height="20" transform="matrix(-1 0 0 1 20 140)" fill="black"/>
+<rect width="20" height="20" transform="matrix(-1 0 0 1 20 110)" fill="black"/>
+<rect width="20" height="10" transform="matrix(-1 0 0 1 20 130)" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M39 180H20V161C20 171.493 28.5066 180 39 180Z" fill="black"/>
+<rect width="20" height="20" transform="matrix(-1 0 0 1 20 20)" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 0V20H0C0 8.95431 8.95431 0 20 0Z" fill="black"/>
+</svg>

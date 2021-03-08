@@ -1,0 +1,37 @@
+<svg width="140" height="200" viewBox="0 0 140 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="20" height="20" transform="matrix(1 0 0 -1 0 40)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 0 160)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 0 120)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 0 60)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 0 140)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 0 80)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 0 100)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 60 40)" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 0V20H0C11.0457 20 20 11.0457 20 0Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M80 20H60V0C60 11.0457 68.9543 20 80 20Z" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 60 160)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 60 60)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 60 140)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 60 80)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 0 180)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 60 180)" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 200C8.95431 200 0 191.046 0 180C0 168.954 8.95431 160 20 160C20 171.046 28.9543 180 40 180C51.0457 180 60 171.046 60 160C71.0457 160 80 168.954 80 180C80 191.046 71.0457 200 60 200H20Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M80 117.324V120H70H60V117.324C62.9417 119.026 66.3571 120 70 120C73.6429 120 77.0583 119.026 80 117.324Z" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 60 40)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 60 120)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 60 60)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 60 80)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 60 100)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 120 40)" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M140 20H120V0C120 11.0457 128.954 20 140 20Z" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 120 160)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 120 60)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 120 140)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 120 120)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 120 100)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 120 80)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 60 180)" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 120 180)" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M80 200C68.9543 200 60 191.046 60 180C60 168.954 68.9543 160 80 160C80 171.046 88.9543 180 100 180C111.046 180 120 171.046 120 160C131.046 160 140 168.954 140 180C140 191.046 131.046 200 120 200H80Z" fill="black"/>
+<rect width="20" height="20" transform="matrix(1 0 0 -1 60 200)" fill="black"/>
+</svg>

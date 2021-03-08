@@ -1,0 +1,37 @@
+<svg width="140" height="200" viewBox="0 0 140 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="160" width="20" height="20" fill="black"/>
+<rect y="40" width="20" height="20" fill="black"/>
+<rect y="80" width="20" height="20" fill="black"/>
+<rect y="140" width="20" height="20" fill="black"/>
+<rect y="60" width="20" height="20" fill="black"/>
+<rect y="120" width="20" height="20" fill="black"/>
+<rect y="100" width="20" height="20" fill="black"/>
+<rect x="60" y="160" width="20" height="20" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 200V180H0C11.0457 180 20 188.954 20 200Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M80 180H60V200C60 188.954 68.9543 180 80 180Z" fill="black"/>
+<rect x="60" y="40" width="20" height="20" fill="black"/>
+<rect x="60" y="140" width="20" height="20" fill="black"/>
+<rect x="60" y="60" width="20" height="20" fill="black"/>
+<rect x="60" y="120" width="20" height="20" fill="black"/>
+<rect y="20" width="20" height="20" fill="black"/>
+<rect x="60" y="20" width="20" height="20" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 0C8.95431 0 0 8.95431 0 20C0 31.0457 8.95431 40 20 40C20 28.9543 28.9543 20 40 20C51.0457 20 60 28.9543 60 40C71.0457 40 80 31.0457 80 20C80 8.95431 71.0457 0 60 0H20Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M80 82.6756V80H70H60V82.6756C62.9417 80.9739 66.3571 80 70 80C73.6429 80 77.0583 80.9739 80 82.6756Z" fill="black"/>
+<rect x="60" y="160" width="20" height="20" fill="black"/>
+<rect x="60" y="80" width="20" height="20" fill="black"/>
+<rect x="60" y="140" width="20" height="20" fill="black"/>
+<rect x="60" y="120" width="20" height="20" fill="black"/>
+<rect x="60" y="100" width="20" height="20" fill="black"/>
+<rect x="120" y="160" width="20" height="20" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M140 180H120V200C120 188.954 128.954 180 140 180Z" fill="black"/>
+<rect x="120" y="40" width="20" height="20" fill="black"/>
+<rect x="120" y="140" width="20" height="20" fill="black"/>
+<rect x="120" y="60" width="20" height="20" fill="black"/>
+<rect x="120" y="80" width="20" height="20" fill="black"/>
+<rect x="120" y="100" width="20" height="20" fill="black"/>
+<rect x="120" y="120" width="20" height="20" fill="black"/>
+<rect x="60" y="20" width="20" height="20" fill="black"/>
+<rect x="120" y="20" width="20" height="20" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M80 0C68.9543 0 60 8.95431 60 20C60 31.0457 68.9543 40 80 40C80 28.9543 88.9543 20 100 20C111.046 20 120 28.9543 120 40C131.046 40 140 31.0457 140 20C140 8.95431 131.046 0 120 0H80Z" fill="black"/>
+<rect x="60" width="20" height="20" fill="black"/>
+</svg>

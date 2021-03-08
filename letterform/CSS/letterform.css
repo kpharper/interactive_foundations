@@ -8,7 +8,7 @@ body{
     background-color: lightgreen;
 }
 
-
+.crosshair {cursor: crosshair;}
 
 .abc-bounding-box{
     width: 1800px;
@@ -21,11 +21,21 @@ body{
 
 .bounding-box{
     width: 597px;
-    height: 600px;
+    height: 700px;
     margin: auto;
     overflow: visible;
     position: relative;
     display: inline-block;
+}
+
+.svg-bounding-box{
+    width: 1800px;
+    margin: auto;
+    padding: 50px;
+    overflow: hidden;
+    position: relative;
+    display: block;
+    background: solid red;
 }
 
 #a{
@@ -42,7 +52,7 @@ body{
 
 .vertical-rect {
     width: 160px;
-    height: 400px;
+    height: 500px;
     display: block;
     position: absolute;
     top: 70px;
@@ -72,6 +82,31 @@ body{
     left: 0px;
 }
 
+.a-oval-top {
+    width: 80px;
+    height: 160px;
+    background: lightgreen;
+    position: absolute;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    top: 115px;
+    left: 58px;
+}
+.a-oval-bottom {
+    width: 80px;
+    height: 160px;
+    background: lightgreen;
+    position: absolute;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    top: 311px;
+    left: 58px;
+}
+
 .top{
     top: 115px;
     left: 58px;
@@ -87,6 +122,19 @@ body{
     left: 58px;
     width: 80px;
     height: 120px;
+    background: lightgreen;
+    position: absolute;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.top-b-oval{
+    top: 115px;
+    left: 58px;
+    width: 80px;
+    height: 160px;
     background: lightgreen;
     position: absolute;
     border-top-left-radius: 50px;
@@ -116,13 +164,6 @@ body{
     height: 80px;
 }
 
-.circle-b{
-    background: lightgreen;
-    border-radius: 50%;
-    position: absolute;
-    width: 80px;
-    height: 80px;
-}
 
 .middle {
     width: 80px;
@@ -165,7 +206,43 @@ body{
     left: 120px;
 }
 
-.bounding-box:hover .circle{ transform: translateY(100px); }
 
-.circle { transition: all 500ms ease; }
+/* Magic Stuff End -> */
+
+.bounding-box:hover .circle{ 
+    transform: translateY(100px);
+    height: 150px;
+    transition: all 500ms ease;
+    }
+
+.bounding-box:hover .a-oval-bottom{ 
+    transform: scaleY(3.3);
+    transition: all 500ms ease;
+    }
+
+.bounding-box:hover .top-b-oval{ 
+    transform: scaleY(0);
+    transition: all 700ms ease;
+    position: absolute;
+    height: 200px;
+    }
+
+.bounding-box:hover .bottom-b-oval{
+    height: 320px;
+    transform: translateY(-200px);
+    transition: all 700ms ease;
+}
+
+.bounding-box:hover .c-oval{
+    height: 400px;
+    transition: all 700ms ease;
+}
+
+.vertical-rect:hover { 
+    transition: background-image 1s linear;
+    background: linear-gradient(to bottom, hsl(350, 90%, 50%),hsl(0, 100%, 20%));
+    }
+
+
+
 

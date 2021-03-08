@@ -1,0 +1,8 @@
+<svg width="80" height="200" viewBox="0 0 80 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="30" y="100" width="20" height="20" fill="black"/>
+<rect x="30" y="120" width="20" height="20" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M60 0V20V29C60 37.583 54.5933 44.9033 47 47.7408V72.5C47 76.6421 43.6421 80 39.5 80C35.3579 80 32 76.6421 32 72.5V47.3358C24.9364 44.2496 20 37.2013 20 29V20V0C8.95431 0 0 8.95431 0 20V40V60V80C11.0457 80 20 88.9543 20 100H60C60 88.9543 68.9543 80 80 80V60V40V20C80 8.95431 71.0457 0 60 0Z" fill="black"/>
+<rect x="30" y="160" width="20" height="20" transform="rotate(-90 30 160)" fill="black"/>
+<rect x="30" y="160" width="20" height="20" fill="black"/>
+<rect x="30" y="180" width="20" height="20" fill="black"/>
+</svg>
