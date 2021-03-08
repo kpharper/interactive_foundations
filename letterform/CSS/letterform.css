@@ -9,11 +9,27 @@ body{
 }
 
 h1 {
-  font-size: 80px;
-  font-family: Nunito Sans Black;
+  font-size: 200px;
+  font-family: Rawgly;
+  font-weight: bold;
+  font-kerning: 100px;
+  color: black; 
+}
+
+h2 {
+  font-size: 100px;
+  font-family: Rawgly;
   font-weight: bold;
   font-kerning: 100px;
   color: darkorange; 
+}
+
+h3 {
+  font-size: 180px;
+  font-family: Rawgly;
+  font-weight: bold;
+  font-kerning: 100px;
+  color: solid red; 
 }
 
 .container {
