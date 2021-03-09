@@ -7,6 +7,10 @@
 body{
     background-color: lightgreen;
 }
+@font-face {
+    font-family: Rawgly
+    src: url(Rawgly.otf);
+}
 
 h1 {
   font-size: 200px;
