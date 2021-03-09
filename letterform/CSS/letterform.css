@@ -7,9 +7,10 @@
 body{
     background-color: lightgreen;
 }
+
 @font-face {
     font-family: Rawgly
-    src: url(Rawgly.otf);
+    src: url(Rawgly.ttf);
 }
 
 h1 {
