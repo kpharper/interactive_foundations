@@ -247,6 +247,7 @@ h3 {
     transform: translateY(100px);
     height: 150px;
     transition: all 500ms ease;
+    transition: ease-out 500ms;
     }
 
 .bounding-box:hover .a-oval-bottom{ 
