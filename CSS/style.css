@@ -1,9 +1,9 @@
 
 @font-face {
   font-family: "Typefesse";
-  src: url("/fonts/Typefesse_Claire-Obscure.woff") format("woff"),
-       url("/fonts/Typefesse_Claire-Obscure.woff2") format("woff2"),
-       url("/fonts/Typefesse_Claire-Obscure.eot") format("eot");
+  src: url("../fonts/Typefesse_Claire-Obscure.woff") format("woff"),
+       url("../fonts/Typefesse_Claire-Obscure.woff2") format("woff2"),
+       url("../fonts/Typefesse_Claire-Obscure.eot") format("eot");
 }
 
 body {
