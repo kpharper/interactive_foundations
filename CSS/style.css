@@ -10,6 +10,7 @@
 body {
   background-color: lightpink;
   font-family: "Andale Mono";
+  color: yellow;
 }
 p.thick {
   font-weight: bold;
