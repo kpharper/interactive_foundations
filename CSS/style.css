@@ -1,11 +1,11 @@
 
 @font-face {
   font-family: "Typefesse_Claire-Obscure";
-  src: url("./fonts/Typefesse_Claire-Obscure.woff") format("woff"),
-       url("./fonts/Typefesse_Claire-Obscure.eot") format("eot");
+  src: url("fonts/Typefesse_Claire-Obscure.woff") format("woff"),
+       url("fonts/Typefesse_Claire-Obscure.eot") format("eot");
 
   font-family: "IBM Plex Mono";
-  src: url("./fonts/IBMPlexMono-Regular.ttf") format("tff"),
+  src: url("fonts/IBMPlexMono-Regular.ttf") format("tff"),
 }
 
 body {
