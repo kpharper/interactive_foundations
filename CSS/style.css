@@ -1,3 +1,13 @@
+
+@font-face {
+  font-family: "Kernit-Outline";
+  src: url("/fonts/Kernit-Outline.woff") format("woff"),
+       url("/fonts/Kernit-Outline.eot") format("eot");
+
+  font-family: "IBM Plex Mono";
+  src: url("/fonts/IBMPlexMono-Regular.ttf") format("tff"),
+}
+
 body {
   background-color: lightpink;
   font-family: IBM Plex Mono;
@@ -6,11 +16,6 @@ p.thick {
   font-weight: bold;
 }
 
-@font-face {
-  font-family: "Kernit-Outline";
-  src: url("/fonts/Kernit-Outline.woff") format("woff"),
-       url("/fonts/Kernit-Outline.eot") format("eot");
-}
 h1 {
   font-size: 80px;
   font-family: Kernit-Outline;
@@ -18,7 +23,7 @@ h1 {
   font-kerning: 100px;
   color: darkorange; 
 }
-}
+
 h2{
 	font-size: 10px
 }
