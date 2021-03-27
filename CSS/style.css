@@ -4,11 +4,13 @@
   src: url("../fonts/Typefesse_Claire-Obscure.woff") format("woff"),
        url("../fonts/Typefesse_Claire-Obscure.woff2") format("woff2"),
        url("../fonts/Typefesse_Claire-Obscure.eot") format("eot");
+
+  font-family: "IBM Plex Mono";
 }
 
 body {
   background-color: lightpink;
-  font-family: IBM Plex Mono;
+  font-family: "IBM Plex Mono", Andale Mono;
 }
 p.thick {
   font-weight: bold;
