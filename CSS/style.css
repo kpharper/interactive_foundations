@@ -1,7 +1,8 @@
 
 @font-face {
-  font-family: "Typefesse_Claire-Obscure";
+  font-family: "Typefesse";
   src: url("./fonts/Typefesse_Claire-Obscure.woff") format("woff"),
+       url("./fonts/Typefesse_Claire-Obscure.woff2") format("woff2"),
        url("./fonts/Typefesse_Claire-Obscure.eot") format("eot");
 }
 
@@ -15,7 +16,7 @@ p.thick {
 
 h1 {
   font-size: 80px;
-  font-family: "Typefesse_Claire-Obscure";
+  font-family: Typefesse;
   font-weight: bold;
   font-kerning: 100px;
   color: darkorange; 
