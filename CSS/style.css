@@ -1,8 +1,8 @@
 
 @font-face {
   font-family: "Typefesse_Claire-Obscure";
-  src: url("fonts/Typefesse_Claire-Obscure.woff") format("woff"),
-       url("fonts/Typefesse_Claire-Obscure.eot") format("eot");
+  src: url("./fonts/Typefesse_Claire-Obscure.woff") format("woff"),
+       url("./fonts/Typefesse_Claire-Obscure.eot") format("eot");
 }
 
 body {
@@ -16,8 +16,6 @@ p.thick {
 h1 {
   font-size: 80px;
   font-family: Typefesse_Claire-Obscure;
-    src: url("fonts/Typefesse_Claire-Obscure.woff") format("woff"),
-         url("fonts/Typefesse_Claire-Obscure.eot") format("eot");
   font-weight: bold;
   font-kerning: 100px;
   color: darkorange; 
