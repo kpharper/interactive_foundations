@@ -1,6 +1,5 @@
 body {
   background-color: coral;
-  background-image: url('../img/world.png');
   background-repeat: no-repeat;
   font-family: Andale Mono;
 }
@@ -31,16 +30,24 @@ h3{
 }
 
 #grid {
-  width: 1000px;
+  width: 1200px;
   height: 1000px;
   margin: 40px auto;
 
   border: 1px solid blue;
 
   display: grid;
-  grid-template-columns: 250px 250px 250px 250px;
+  grid-template-columns: 300px 300px 300px 300px;
 }
 
 .item {
   border: 1px solid red;
+  display: inline-block;
+  width: 140px
+  height: 200px;
+  background-size: cover;
 }
+
+.item:hover, 
+.item:focus {
+    filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
