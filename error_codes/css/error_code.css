@@ -3,9 +3,9 @@ body {
   background-repeat: no-repeat;
   font-family: Andale Mono;
   background-image: url('../img/world.svg');
-  background-position-y: 200px;
+  background-position-y: 220px;
   background-repeat: no-repeat;
-  background-size: 1800px 1000px;
+  background-size: 1700px 1000px;
 }
 p.thick {
   font-weight: bold;
@@ -15,7 +15,8 @@ h1 {
   font-family: Andale Mono;
   font-weight: bold;
   font-kerning: 100px;
-  color: blue; 
+  color: rgb(0,0,255);
+  color: linear-gradient(90deg, rgba(0,0,255,1) 0%, rgba(0,212,255,1) 100%);
 }
 h2{
 	font-size: 15px;
@@ -39,7 +40,7 @@ h3{
   width: 1200px;
   height: 1000px;
   margin: 40px auto;
-  border: 1px solid blue;
+  border: 0px solid blue;
   position: absolute;
   display: grid;
   grid-template-columns: 300px 300px 300px 300px;
@@ -57,7 +58,13 @@ h3{
 .item:focus {
     filter: invert(80%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%) opacity(40%);
     transition: all 1s ease;
+    transform: scale(1.2);
 }
 
 #five: <link rel="stylesheet" type="text/css" href="css/area-51.css">
+}
+
+#one:hover {
+  content: "37.2431° N, 115.7930° W";
+
 }
