@@ -2,6 +2,10 @@ body {
   background-color: coral;
   background-repeat: no-repeat;
   font-family: Andale Mono;
+  background-position-y: 100px;
+  background-image: url('../img/world.svg');
+  background-repeat: no-repeat;
+  background-size: 1800px 1000px;
 }
 p.thick {
   font-weight: bold;
@@ -19,3 +23,38 @@ h2{
 h3{
 	font-size: 20px
 }
+
+#world {
+  border: 1px dashed yellow;
+  width: 1800px;
+  height: 1000px;
+  background-image: url('../img/world.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#grid {
+  width: 1200px;
+  height: 1000px;
+  margin: 40px auto;
+  border: 1px solid blue;
+
+  display: grid;
+  grid-template-columns: 300px 300px 300px 300px;
+}
+
+.item {
+  border: 1px solid red;
+  display: inline-block;
+  width: 140px
+  height: 200px;
+  background-size: cover;
+}
+
+.item:hover, 
+.item:focus {
+    filter: invert(80%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%) opacity(40%);
+    transition: all 1s ease;
+}
+
+#five: <link rel="stylesheet" type="text/css" href="css/area-51.css">
