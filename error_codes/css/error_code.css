@@ -50,4 +50,6 @@ h3{
 
 .item:hover, 
 .item:focus {
-    filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
+    filter: invert(80%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%) opacity(40%);
+    transition: all 1s ease;
+}
